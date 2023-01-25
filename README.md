@@ -1,6 +1,6 @@
 # 💫 Seja Muito Bem Vindo(a)! Sou o Jennings Delk
 Atualmente estou cursando Ciência e Tecnologia na Universidade Federal do Rio Grande do Norte e fazendo alguns cursos extras voltados para programação.<br>
-<img align="rigth"=590em src="https://raw.githubusercontent.com/gist/jenningsdelk/fd381589e7aa0c08f8550205a7ca156f/raw/4c764027b2293ba10ce5653ba7d6a3f024acfe29/car.svg"/>
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/Delk#3052) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/JenningsDelk) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/jenningsdelk) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/jennings-delk-81538215a/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@jenningsdelk) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/jenningsdelk) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/jenningsdelk) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@jenningsdelk) 
