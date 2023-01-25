@@ -1,5 +1,5 @@
-# 💫 Seja Muito Bem Vindo(a)! Sou o Jennings Delk:
-Atualmente estou cursando Ciência e Tecnologia na Universidade Federal do Rio Grande do Norte e cursos extras voltados para programação.<br>
+# 💫 Seja Muito Bem Vindo(a)! Sou o Jennings Delk
+Atualmente estou cursando Ciência e Tecnologia na Universidade Federal do Rio Grande do Norte e fazendo alguns cursos extras voltados para programação.<br>
 
 
 ## 🌐 Socials:
