@@ -1,7 +1,7 @@
 <img align="right" height="590em"
      src="https://raw.githubusercontent.com/gist/jenningsdelk/fd381589e7aa0c08f8550205a7ca156f/raw/4c764027b2293ba10ce5653ba7d6a3f024acfe29/car.svg"/>
 
-Olá Sou Jennings Delk
+Olá Sou Jennings Delk:
 💻 **Analista e Desenvolvedor de Sistemas**  
 📘 Cursando **MBA em Gestão da Qualidade em Software** e **Pós-graduação em Engenharia de Software**  
 
@@ -53,17 +53,10 @@ Site institucional em fase de desenvolvimento, criado para um **barco hotel no P
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jenningsdelk&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jenningsdelk&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 📫 Contato
-
-📧 **Email:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)  
-🔗 **GitHub:** [github.com/jenningsdelk](https://github.com/jenningsdelk)  
-💼 **LinkedIn:** [linkedin.com/in/jenningsdelk](https://linkedin.com/in/jenningsdelk)
----
-[![](https://visitcount.itsvg.in/api?id=jenningsdelk&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## 📫 Contato
 
-📧 **Email:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)  
+📧 **Email:** [jenningsdelk@gmail.com](mailto:jenningsdelk@gmail.com)  
 🔗 **GitHub:** [github.com/jenningsdelk](https://github.com/jenningsdelk)  
 💼 **LinkedIn:** [linkedin.com/in/jenningsdelk](https://linkedin.com/in/jenningsdelk)
   # ✍️ Assinatura
