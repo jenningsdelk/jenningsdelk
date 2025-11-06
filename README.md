@@ -2,7 +2,7 @@
      src="https://raw.githubusercontent.com/gist/jenningsdelk/fd381589e7aa0c08f8550205a7ca156f/raw/4c764027b2293ba10ce5653ba7d6a3f024acfe29/car.svg"/>
 
 # 💫 Seja Muito Bem Vindo(a)! Sou o Jennings Delk
-Atualmente estou cursando Ciência e Tecnologia na Universidade Federal do Rio Grande do Norte e fazendo alguns cursos extras voltados para programação.<br>
+💻 Analista e Desenvolvedor de Sistemas | 📚 MBA em Gestão da Qualidade em Software (cursando) | Pós-graduação em Engenharia de Software.<br>
 
 
 ## 🌐 Socials:
