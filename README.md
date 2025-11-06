@@ -1,8 +1,12 @@
 <img align="right" height="590em"
      src="https://raw.githubusercontent.com/gist/jenningsdelk/fd381589e7aa0c08f8550205a7ca156f/raw/4c764027b2293ba10ce5653ba7d6a3f024acfe29/car.svg"/>
 
-# 💫 Seja Muito Bem Vindo(a)! Sou o Jennings Delk
-💻 Analista e Desenvolvedor de Sistemas | 📚 MBA em Gestão da Qualidade em Software (cursando) | Pós-graduação em Engenharia de Software.<br>
+💻 **Analista e Desenvolvedor de Sistemas**  
+🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
+📘 Cursando **MBA em Gestão da Qualidade em Software** e **Pós-graduação em Engenharia de Software**  
+
+Sou um desenvolvedor **Full Stack** com foco em criar soluções completas, modernas e funcionais — do **frontend ao backend**.  
+Apaixonado por tecnologia, tenho como objetivo desenvolver sistemas que otimizem processos e proporcionem **experiências de uso inteligentes e agradáveis**.
 
 
 # 🌐 Socials:
@@ -49,15 +53,19 @@ Site institucional em fase de desenvolvimento, criado para um **barco hotel no P
 ![](https://github-readme-streak-stats.herokuapp.com/?user=jenningsdelk&theme=blue-green&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=jenningsdelk&theme=blue-green&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 🐦 Latest Tweet
-[![](https://gtce.itsvg.in/api?username=jenningsdelk)](https://github.com/VishwaGauravIn/github-twitter-card-embed)
+## 📫 Contato
 
+📧 **Email:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)  
+🔗 **GitHub:** [github.com/jenningsdelk](https://github.com/jenningsdelk)  
+💼 **LinkedIn:** [linkedin.com/in/jenningsdelk](https://linkedin.com/in/jenningsdelk)
 ---
 [![](https://visitcount.itsvg.in/api?id=jenningsdelk&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  # 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/jenningsdelk) 
+## 📫 Contato
 
+📧 **Email:** [seu-email@exemplo.com](mailto:seu-email@exemplo.com)  
+🔗 **GitHub:** [github.com/jenningsdelk](https://github.com/jenningsdelk)  
+💼 **LinkedIn:** [linkedin.com/in/jenningsdelk](https://linkedin.com/in/jenningsdelk)
   # ✍️ Assinatura
 **Jennings Delk | Analista e Desenvolvedor de Sistemas**
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
