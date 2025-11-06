@@ -1,8 +1,8 @@
 <img align="right" height="590em"
      src="https://raw.githubusercontent.com/gist/jenningsdelk/fd381589e7aa0c08f8550205a7ca156f/raw/4c764027b2293ba10ce5653ba7d6a3f024acfe29/car.svg"/>
 
+Olá Sou Jennings Delk
 💻 **Analista e Desenvolvedor de Sistemas**  
-🎓 Formado em **Análise e Desenvolvimento de Sistemas**  
 📘 Cursando **MBA em Gestão da Qualidade em Software** e **Pós-graduação em Engenharia de Software**  
 
 Sou um desenvolvedor **Full Stack** com foco em criar soluções completas, modernas e funcionais — do **frontend ao backend**.  
